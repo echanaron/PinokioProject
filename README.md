@@ -22,7 +22,7 @@ Python library
 [PyYAML](http://pyyaml.org/)
 
 
-windows installation
+Windows installation
 --------------------
 if you are under windows you need a 32bit version of python 2.7. You also need to install some extrat library for matplotlib.
 
